@@ -4,3 +4,9 @@
     box-sizing: border-box;
 
 }
+
+:root {
+    --primary: #0511F2;
+    --secondary: #05DBF2;
+    --accent: #020659;
+}
