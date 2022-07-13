@@ -11,4 +11,9 @@
 <h1>Sign Up</h1>
     <div><h2>Registration Form</h2></div>
     <form action='connect.php' method="POST">
+        <label for="user">Name:</label><br>
+        <input type='text' name='name' id="full_name" required/> <br> <br>
+        <label for="email">Email:</label><br>
+        <input type='text' name='email' id="email" required/> <br> <br>
+    </form>
 </body>
