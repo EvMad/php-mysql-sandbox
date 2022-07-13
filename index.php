@@ -16,4 +16,6 @@
         <label for="email">Email:</label><br>
         <input type='text' name='email' id="email" required/> <br> <br>
     </form>
+
+    <script></script>
 </body>
